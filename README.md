@@ -59,7 +59,9 @@
 ```bash
 git clone https://github.com/larissaestella/SOA-CP2.git
 cd SOA-CP2
-mvn spring-boot:run
+
+# Compile e execute a aplicação
+MainApplication.java
 ```
 
 ### URLs disponíveis
