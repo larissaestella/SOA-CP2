@@ -1,5 +1,11 @@
 # CP 2 — Sistema de Reserva de Hotel | Arquitetura Orientada a Serviço
 
+
+## **Integrantes**
+* **Beatriz Silva Pinheiro Rocha - RM553455**
+* **Larissa Estella Gonçalves dos Santos - RM552695**
+* **Rafael Alves do Nascimento - RM553117**
+
 ---
 
 ## Stack
